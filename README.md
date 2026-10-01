@@ -1,7 +1,7 @@
 👋 Hi, I'm Iman
-🚀 DevOps Engineer | Software Developer
+ DevOps Engineer | Software Developer
 
-🛠️ Tech Stack
+ Tech Stack
 Docker | Kubernetes | Terraform
 Ansible | GitLab CI/CD | Linux
 
