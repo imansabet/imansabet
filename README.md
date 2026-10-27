@@ -9,7 +9,7 @@ Ansible | GitLab CI/CD | Linux
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansabet&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imansabet&layout=compact&theme=tokyonight)
+//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imansabet&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
